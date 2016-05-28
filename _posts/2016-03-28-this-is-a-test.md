@@ -3,21 +3,16 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
 keywords: []
 description: This is a test
-datePublished: '2016-03-28T17:58:31.081Z'
-dateModified: '2016-03-28T17:58:23.719Z'
+datePublished: '2016-05-28T16:31:02.019Z'
+dateModified: '2016-05-28T16:30:54.478Z'
 title: ''
 author: []
-authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
 sourcePath: _posts/2016-03-28-this-is-a-test.md
-published: true
+authors: []
+publisher: null
+starred: true
 url: this-is-a-test/index.html
 _type: Article
 
